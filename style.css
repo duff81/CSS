@@ -1,0 +1,87 @@
+body {
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgrey;
+}
+h2, p, .readme-wrapper {
+    text-align: center;   
+}
+.boxes { 
+    margin-top: 1em;
+    padding: 1em;
+    border: 1em solid hotpink; 
+    border-radius: 1em;
+}
+.shared {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: silver;
+    position: relative;
+    left: 7.5em;
+    top: 3.5em;
+
+}
+
+#Box1 {
+    background-color: magenta
+}
+
+#Box2 {
+    background-color :orangered;
+    
+}
+
+#Box3 {
+    background-color: orange
+}
+
+#Box4 {
+    background-color: peru;
+}
+a {
+    color: red; text-decoration: none; 
+}
+a:hover {color:hotpink; cursor: pointer; font-weight: bolder;
+
+}
+
+h1 {
+    color: blanchedalmond; 
+}
+.original {
+    color: lightblue
+}
+.additional {
+    color: navy
+}
+#show1 {
+    color: red
+}
+#show2 {
+    color: bisque
+}
+#show3 {
+    color: cornflowerblue
+}
+#show4 {
+    color: yellowgreen
+}
+#show5 {
+    color: darkred
+
+}
+.ul {
+    color: palevioletred
+}
+.star {
+    color: sienna
+}
+#wars {
+    color: blueviolet
+}
+
+.list {
+    border: 2px solid black;
+    
+}
